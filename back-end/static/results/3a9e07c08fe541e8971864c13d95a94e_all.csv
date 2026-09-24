@@ -1,0 +1,101 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,typo_suggestion,mx_records,smtp_status,checked_with_smtp,score,status
+INFO@CFP-INTERNATIONAL.COM,True,cfp-international.com,False,True,False,False,,['cfpinternational-com0i.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,90,Deliverable
+info@mcowiring.com,True,mcowiring.com,False,True,False,False,,"['alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx3.googlemail.com']",Valid,merrymeyer705@gmail.com,90,Deliverable
+trent@curtisfire.com,True,curtisfire.com,False,False,False,False,,['curtisfire-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,100,Deliverable
+quotes@metrosafetyandfire.com,True,metrosafetyandfire.com,False,False,False,False,,['metrosafetyandfire-com.mail.eo.outlook.com'],Valid,merrymeyer703@gmail.com,100,Deliverable
+info@metrosafetyandfire.com,True,metrosafetyandfire.com,False,True,False,False,,['metrosafetyandfire-com.mail.eo.outlook.com'],Valid,merrymeyer703@gmail.com,90,Deliverable
+paul@sitewiseinc.com,True,sitewiseinc.com,False,False,False,False,,['sitewiseinc-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,100,Deliverable
+kmeier@electricalproductsco.com,True,electricalproductsco.com,False,False,False,False,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+corporate@statefire.com,True,statefire.com,False,False,False,True,,['statefire-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+cfuller.fullerfire@gmail.com,True,gmail.com,False,False,False,True,gmail.com,"['alt1.gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com', 'alt3.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com']",Valid,merrymeyer703@gmail.com,85,Deliverable
+info@midwestprefab.com,True,midwestprefab.com,False,True,False,False,,['midwestprefab-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+info@allstatecom.com,True,allstatecom.com,False,True,False,False,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Valid,merrymeyer705@gmail.com,90,Deliverable
+service@sosresponds.com,True,sosresponds.com,False,True,False,False,,['sosresponds-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+estimating@warrencountyelectric.com,True,warrencountyelectric.com,False,False,False,True,,['mail.warrencountyelectric.com'],Valid,merrymeyer703@gmail.com,85,Deliverable
+employment@gmsnutech.com,True,gmsnutech.com,False,False,False,True,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Valid,merrymeyer705@gmail.com,85,Deliverable
+sales@lssasap.com,True,lssasap.com,False,True,False,False,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,merrymeyer703@gmail.com,90,Deliverable
+orders@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+tech@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+toms@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+kyles@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+rmartin@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+mikef@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+jayc@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+derrickj@pottersignal.com,True,pottersignal.com,False,False,False,True,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,85,Deliverable
+rickd@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+zackp@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+jeffw@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+garyd@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+jwagner@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+alberta@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+aaronl@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+johng@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+dickb@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+kevinm@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+mikej@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+alecc@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+shelleyd@pottersignal.com,True,pottersignal.com,False,False,False,True,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,85,Deliverable
+jruszkowski@pottersignal.com,True,pottersignal.com,False,False,False,True,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,85,Deliverable
+adamd@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+jimt@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+jeffm@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+tateh@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+mikee@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+daniellef@pottersignal.com,True,pottersignal.com,False,False,False,True,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,85,Deliverable
+timf@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+steveb@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+bryank@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+randym@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+ralphc@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+leandrov@pottersignal.com,True,pottersignal.com,False,False,False,True,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,85,Deliverable
+bpc@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+husseinf@pottersignal.com,True,pottersignal.com,False,False,False,True,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Valid,merrymeyer703@gmail.com,85,Deliverable
+info@somersetfas.com,True,somersetfas.com,False,True,False,False,,['somersetfas-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,90,Deliverable
+info@contechco.com,True,contechco.com,False,True,False,False,,['contechco-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,90,Deliverable
+inquiry@natfiresafety.com,True,natfiresafety.com,False,False,False,False,,"['d221240a.ess.barracudanetworks.com', 'd221240b.ess.barracudanetworks.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+info@koorsen.com,True,koorsen.com,False,True,False,False,,"['cuda.koorsen.com', 'd323458a.ess.barracudanetworks.com', 'd323458b.ess.barracudanetworks.com']",Valid,merrymeyer705@gmail.com,90,Deliverable
+sales@agmonitoring.com,True,agmonitoring.com,False,True,False,False,,['agmonitoring-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+dealercare@agmonitoring.com,True,agmonitoring.com,False,False,False,True,,['agmonitoring-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,85,Deliverable
+billing@agmonitoring.com,True,agmonitoring.com,False,True,False,False,,['agmonitoring-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+andy@sjselectricllc.net,True,sjselectricllc.net,False,False,False,False,,['sjselectricllc-net.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,100,Deliverable
+info@sjselectricllc.net,True,sjselectricllc.net,False,True,False,False,,['sjselectricllc-net.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,90,Deliverable
+info@nationalfireinc.com,True,nationalfireinc.com,False,True,False,False,,"['us-smtp-inbound-1.mimecast.com', 'us-smtp-inbound-2.mimecast.com']",Valid,merrymeyer703@gmail.com,90,Deliverable
+info@designerhub.com,True,designerhub.com,False,True,False,False,,['mail.designerhub.com'],Valid,merrymeyer703@gmail.com,90,Deliverable
+info@mcmillanco.com,True,mcmillanco.com,False,True,False,False,,['gw6077.fortimail.com'],Valid,merrymeyer703@gmail.com,90,Deliverable
+sara.borsella@socotec.us,True,socotec.us,False,False,False,True,,"['d250337a.ess.barracudanetworks.com', 'd250337b.ess.barracudanetworks.com']",Valid,merrymeyer705@gmail.com,85,Deliverable
+sara@dnainsp.com,True,dnainsp.com,False,False,False,False,,['d323156a.ess.barracudanetworks.com'],Valid,merrymeyer703@gmail.com,100,Deliverable
+info@derector.com,True,derector.com,False,True,False,False,,"['derector.com.1.0001.arsmtp.com', 'derector.com.2.0001.arsmtp.com']",Valid,merrymeyer703@gmail.com,90,Deliverable
+RDA-Miami@derector.com,True,derector.com,False,False,False,False,,"['derector.com.1.0001.arsmtp.com', 'derector.com.2.0001.arsmtp.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+info@carolinaburglaralarm.com,True,carolinaburglaralarm.com,False,True,False,False,,['carolinaburglaralarm-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,90,Deliverable
+nhal.hamner@acibuilds.com,True,acibuilds.com,False,False,False,False,,['acibuilds-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,100,Deliverable
+nnathan.karr@acibuilds.com,True,acibuilds.com,False,False,False,False,,['acibuilds-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,100,Deliverable
+ndan.schultheis@acibuilds.com,True,acibuilds.com,False,False,False,True,,['acibuilds-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,85,Deliverable
+eddie.williams@acibuilds.com,True,acibuilds.com,False,False,False,True,,['acibuilds-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,85,Deliverable
+info@asefas.com,True,asefas.com,False,True,False,False,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,merrymeyer705@gmail.com,90,Deliverable
+info@ascsdm.com,False,,,,,,,,,,0,Invalid Syntax
+info@rmdelectric.nyc,True,rmdelectric.nyc,False,True,False,False,,['rmdelectric-nyc.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+info@nationwide-electric.com,True,nationwide-electric.com,False,True,False,False,,"['ALT1.ASPMX.L.GOOGLE.com', 'ALT2.ASPMX.L.GOOGLE.com', 'ALT3.ASPMX.L.GOOGLE.com', 'ALT4.ASPMX.L.GOOGLE.com', 'ASPMX.L.GOOGLE.com']",Valid,merrymeyer703@gmail.com,90,Deliverable
+nationelectricco@att.net,True,att.net,False,False,False,True,,['mx-att.mail.am0.yahoodns.net'],Valid,merrymeyer703@gmail.com,85,Deliverable
+dstacy@pbfpe.com,True,pbfpe.com,False,False,False,False,,"['d348132a.ess.barracudanetworks.com', 'd348132b.ess.barracudanetworks.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+pierce@pbfpe.com,True,pbfpe.com,False,False,False,False,,"['d348132a.ess.barracudanetworks.com', 'd348132b.ess.barracudanetworks.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+adam@pbfpe.com,True,pbfpe.com,False,False,False,False,,"['d348132a.ess.barracudanetworks.com', 'd348132b.ess.barracudanetworks.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+hboehmer@pbfpe.com,True,pbfpe.com,False,False,False,True,,"['d348132a.ess.barracudanetworks.com', 'd348132b.ess.barracudanetworks.com']",Valid,merrymeyer703@gmail.com,85,Deliverable
+chris@pbfpe.com,True,pbfpe.com,False,False,False,False,,"['d348132a.ess.barracudanetworks.com', 'd348132b.ess.barracudanetworks.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+aumond@pbfpe.com,True,pbfpe.com,False,False,False,False,,"['d348132a.ess.barracudanetworks.com', 'd348132b.ess.barracudanetworks.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+zach@pbfpe.com,True,pbfpe.com,False,False,False,False,,"['d348132a.ess.barracudanetworks.com', 'd348132b.ess.barracudanetworks.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+grant@pbfpe.com,True,pbfpe.com,False,False,False,False,,"['d348132a.ess.barracudanetworks.com', 'd348132b.ess.barracudanetworks.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+rachel@pbfpe.com,True,pbfpe.com,False,False,False,False,,"['d348132a.ess.barracudanetworks.com', 'd348132b.ess.barracudanetworks.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+shannon@pbfpe.com,True,pbfpe.com,False,False,False,False,,"['d348132a.ess.barracudanetworks.com', 'd348132b.ess.barracudanetworks.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+sean@pbfpe.com,True,pbfpe.com,False,False,False,False,,"['d348132a.ess.barracudanetworks.com', 'd348132b.ess.barracudanetworks.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+josh@pbfpe.com,True,pbfpe.com,False,False,False,False,,"['d348132a.ess.barracudanetworks.com', 'd348132b.ess.barracudanetworks.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+corey@pbfpe.com,True,pbfpe.com,False,False,False,False,,"['d348132a.ess.barracudanetworks.com', 'd348132b.ess.barracudanetworks.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+dillon@pbfpe.com,True,pbfpe.com,False,False,False,False,,"['d348132a.ess.barracudanetworks.com', 'd348132b.ess.barracudanetworks.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+rosalie@pbfpe.com,True,pbfpe.com,False,False,False,False,,"['d348132a.ess.barracudanetworks.com', 'd348132b.ess.barracudanetworks.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+info@pbfpe.com,True,pbfpe.com,False,True,False,False,,"['d348132a.ess.barracudanetworks.com', 'd348132b.ess.barracudanetworks.com']",Valid,merrymeyer703@gmail.com,90,Deliverable
+office@GenIIFireProtection.com,True,geniifireprotection.com,False,True,False,False,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,merrymeyer703@gmail.com,90,Deliverable
+info@rexmoore.com,True,rexmoore.com,False,True,False,False,,"['mxa-0095c801.gslb.pphosted.com', 'mxb-0095c801.gslb.pphosted.com']",Valid,merrymeyer705@gmail.com,90,Deliverable
+apply@jencoinc.com,True,jencoinc.com,False,False,False,False,,"['d90076a.ess.barracudanetworks.com', 'd90076b.ess.barracudanetworks.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+info@gorelco.com,True,gorelco.com,False,True,False,False,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Valid,merrymeyer703@gmail.com,90,Deliverable
+bidinfo@gorelco.com,True,gorelco.com,False,False,False,False,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+sales@keltroncorp.com,True,keltroncorp.com,False,True,False,False,,"['us1-smtp-mx1.titanhq.com', 'us1-smtp-mx2.titanhq.com']",Valid,merrymeyer705@gmail.com,90,Deliverable
+sstalker@stalkerelectric.com,True,stalkerelectric.com,False,False,False,True,,['stalkerelectric-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,85,Deliverable

@@ -1,0 +1,3 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,geo,typo_suggestion,mx_records,smtp_status,is_catch_all,score,status
+vince@thewaterguru.com,True,thewaterguru.com,False,False,False,False,Unknown,,['thewaterguru-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+walker@scyardworks.com,True,scyardworks.com,False,False,False,False,Unknown,,['scyardworks-com.mail.protection.outlook.com'],Valid,False,100,Deliverable

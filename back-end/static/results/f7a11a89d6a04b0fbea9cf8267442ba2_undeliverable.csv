@@ -1,0 +1,5 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,typo_suggestion,mx_records,smtp_status,checked_with_smtp,score,status
+impallari@gmail.com,True,gmail.com,False,False,False,True,gmail.com,"['alt1.gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com', 'alt3.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com']",Invalid,marymeyer701@gmail.com,35,Undeliverable
+WAbids@apexelectricgroup.com,True,apexelectricgroup.com,False,False,False,False,,"['apexelecgtricgroup-com.mail.protection.outlook.com', 'apexelectricgroup-com.mail.protection.outlook.com']",Invalid,marymeyer701@gmail.com,50,Undeliverable
+Todd@firesafetysolutions.net,True,firesafetysolutions.net,False,False,False,False,,['firesafetysolutions-net.mail.protection.outlook.com'],Invalid,marymeyer702@gmail.com,50,Undeliverable
+sales@dwsecuritysytems.com,False,,,,,,,,,,0,Invalid Syntax

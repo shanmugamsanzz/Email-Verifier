@@ -1,0 +1,101 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,typo_suggestion,mx_records,smtp_status,checked_with_smtp,score,status
+service@strategicmail.net,True,strategicmail.net,False,True,False,False,,['strategicmail-net.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+Richard.Clark@strategicmail.net,True,strategicmail.net,False,False,False,False,,['strategicmail-net.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,100,Deliverable
+info@varcomac.com,True,varcomac.com,False,True,False,False,,['varcomac-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+info@trasomfire.com,True,trasomfire.com,False,True,False,False,,['trasomfire-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+estimating@trasomfire.com,True,trasomfire.com,False,False,False,True,,['trasomfire-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+serviceteam@trasomfire.com,True,trasomfire.com,False,False,False,True,,['trasomfire-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+sales@pyrosignal.com,True,pyrosignal.com,False,True,False,False,,['pyrosignal-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+info@lvsolutions.com,True,lvsolutions.com,False,True,False,False,,['lvsolutions-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,90,Deliverable
+cooper@easternsecurity.net,True,easternsecurity.net,False,False,False,False,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+mike@easternsecurity.net,True,easternsecurity.net,False,False,False,False,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+jeff@easternsecurity.net,True,easternsecurity.net,False,False,False,False,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+jgrosso@easternsecurity.net,True,easternsecurity.net,False,False,False,False,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+jgrosso@easternsecurty.net,False,,,,,,,,,,0,Invalid Syntax
+cornerstone@qode.com,True,qode.com,False,False,False,True,,,,,5,No MX or A Record
+info@certasitepro.com,True,certasitepro.com,False,True,False,False,,['certasitepro-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+QCscheduling@certasitepro.com,True,certasitepro.com,False,False,False,True,,['certasitepro-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+INDYscheduling@certasitepro.com,True,certasitepro.com,False,False,False,True,,['certasitepro-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+LAFscheduling@certasitepro.com,True,certasitepro.com,False,False,False,True,,['certasitepro-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+WMischeduling@certasitepro.com,True,certasitepro.com,False,False,False,True,,['certasitepro-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,85,Deliverable
+emischeduling@certasitepro.com,True,certasitepro.com,False,False,False,True,,['certasitepro-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,85,Deliverable
+DAYscheduling@certasitepro.com,True,certasitepro.com,False,False,False,True,,['certasitepro-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+NEOhioscheduling@certasitepro.com,True,certasitepro.com,False,False,False,True,,['certasitepro-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+tolscheduling@certasitepro.com,True,certasitepro.com,False,False,False,True,,['certasitepro-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,85,Deliverable
+colscheduling@certasitepro.com,True,certasitepro.com,False,False,False,True,,['certasitepro-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+gbscheduling@certasitepro.com,True,certasitepro.com,False,False,False,True,,['certasitepro-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+Rimersburgscheduling@certasitepro.com,True,certasitepro.com,False,False,False,True,,['certasitepro-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+Franklinscheduling@certasitepro.com,True,certasitepro.com,False,False,False,True,,['certasitepro-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+mattb@jmbrennan.com,True,jmbrennan.com,False,False,False,False,,"['us-smtp-inbound-1.mimecast.com', 'us-smtp-inbound-2.mimecast.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+johnb@jmbrennan.com,True,jmbrennan.com,False,False,False,False,,"['us-smtp-inbound-1.mimecast.com', 'us-smtp-inbound-2.mimecast.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+walter.gorman@socotec.us,True,socotec.us,False,False,False,False,,"['d250337a.ess.barracudanetworks.com', 'd250337b.ess.barracudanetworks.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+walter@tqfsi.com,True,tqfsi.com,False,False,False,False,,['d323155a.ess.barracudanetworks.com'],Valid,merrymeyer705@gmail.com,100,Deliverable
+srooney@martinalexander.com,True,martinalexander.com,False,False,False,False,,['martinalexander-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,100,Deliverable
+lei@leicompanies.com,True,leicompanies.com,False,False,False,False,,['leicompanies-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,100,Deliverable
+info@amteck.com,True,amteck.com,False,True,False,False,,"['us-smtp-inbound-1.mimecast.com', 'us-smtp-inbound-2.mimecast.com']",Valid,merrymeyer705@gmail.com,90,Deliverable
+healthcare@TRLsystems.com,True,trlsystems.com,False,False,False,True,,['trlsystems-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+fire@TRLsystems.com,True,trlsystems.com,False,False,False,False,,['trlsystems-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,100,Deliverable
+security@TRLsystems.com,True,trlsystems.com,False,False,False,True,,['trlsystems-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+service@TRLsystems.com,True,trlsystems.com,False,True,False,False,,['trlsystems-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+testing@TRLsystems.com,True,trlsystems.com,False,False,False,False,,['trlsystems-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,100,Deliverable
+shop@TRLsystems.com,True,trlsystems.com,False,False,False,False,,['trlsystems-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,100,Deliverable
+info@trlsystems.com,True,trlsystems.com,False,True,False,False,,['trlsystems-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+info@nextleveltechnician.com,True,nextleveltechnician.com,False,True,False,False,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Valid,merrymeyer705@gmail.com,90,Deliverable
+solutions@beacontech.net,True,beacontech.net,False,False,False,True,,['beacontech-net.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,85,Deliverable
+info@stopfire.com,True,stopfire.com,False,True,False,False,,['stopfire-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,90,Deliverable
+info@akamco.co,True,akamco.co,False,True,False,False,,['mail.akamco.co'],Valid,merrymeyer705@gmail.com,90,Deliverable
+sales@akamco.co,True,akamco.co,False,True,False,False,,['mail.akamco.co'],Valid,merrymeyer703@gmail.com,90,Deliverable
+sales@lapptannehill.com,True,lapptannehill.com,False,True,False,False,,['mxtls.expurgate.net'],Valid,merrymeyer703@gmail.com,90,Deliverable
+sales@fireprotechllc.com,True,fireprotechllc.com,False,True,False,False,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,merrymeyer705@gmail.com,90,Deliverable
+sales@nextsecuritycorp.com,True,nextsecuritycorp.com,False,True,False,False,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,merrymeyer705@gmail.com,90,Deliverable
+info@nextsecuritycorp.com,True,nextsecuritycorp.com,False,True,False,False,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,merrymeyer705@gmail.com,90,Deliverable
+info@tradestarinc.com,True,tradestarinc.com,False,True,False,False,,['tradestarinc-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+pierce@tradestarinc.com,True,tradestarinc.com,False,False,False,False,,['tradestarinc-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,100,Deliverable
+partssales@protegis.com,True,protegis.com,False,False,False,True,,"['protegis-com.mx1.arsmtp.com', 'protegis-com.mx2.arsmtp.com']",Valid,merrymeyer705@gmail.com,85,Deliverable
+___@DenverElectrical.com,True,denverelectrical.com,False,False,False,False,,"['denverelectrical-com.mx1.arsmtp.com', 'denverelectrical-com.mx2.arsmtp.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+sales@UnitedLV.com,True,unitedlv.com,False,True,False,False,,['unitedlv-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,90,Deliverable
+tatiyana@novaelectricny.com,True,novaelectricny.com,False,False,False,True,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com', 'aspmx4.googlemail.com', 'aspmx5.googlemail.com']",Valid,merrymeyer705@gmail.com,85,Deliverable
+FrontDesk@novaelectricny.com,True,novaelectricny.com,False,False,False,True,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com', 'aspmx4.googlemail.com', 'aspmx5.googlemail.com']",Valid,merrymeyer703@gmail.com,85,Deliverable
+sales@lifesafetycom.com,True,lifesafetycom.com,False,True,False,False,,"['lifesafetycom-com.mail.protection.outlook.com', 'server1.inboundmx.com', 'server2.inboundmx.com']",Valid,merrymeyer705@gmail.com,90,Deliverable
+Christopher@CMRichey.com,True,cmrichey.com,False,False,False,True,,['cmrichey-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+info@cmrichey.com,True,cmrichey.com,False,True,False,False,,['cmrichey-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+info@telenetvoip.com,True,telenetvoip.com,False,True,False,False,,['telenetvoip-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,90,Deliverable
+SalesEmessage@telenetvoip.com,True,telenetvoip.com,False,False,False,True,,['telenetvoip-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,85,Deliverable
+inforequest@integratedprotection.com,True,integratedprotection.com,False,False,False,True,,"['integratedprotection.com.1.arsmtp.com', 'integratedprotection.com.2.arsmtp.com']",Valid,merrymeyer705@gmail.com,85,Deliverable
+sales@fpiseattle.com,True,fpiseattle.com,False,True,False,False,,"['fpiseattle-com.inbound.emailservice.cc', 'fpiseattle-com.inbound.emailservice.co', 'fpiseattle-com.inbound.emailservice.io']",Valid,merrymeyer705@gmail.com,90,Deliverable
+info@TeamISS.com,True,teamiss.com,False,True,False,False,,['teamiss-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,90,Deliverable
+sales@securalarm.com,True,securalarm.com,False,True,False,False,,['securalarm-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,90,Deliverable
+service.request@securalarm.com,True,securalarm.com,False,False,False,False,,['securalarm-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,100,Deliverable
+accounting@securalarm.com,True,securalarm.com,False,False,False,True,,['securalarm-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+programming@securalarm.com,True,securalarm.com,False,False,False,True,,['securalarm-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+cpotter@nwfiresystems.com,True,nwfiresystems.com,False,False,False,False,,['cmiteastside-mx1.titanhq.com'],Valid,merrymeyer703@gmail.com,100,Deliverable
+industrialinfo@marmoniei.com,True,marmoniei.com,False,False,False,True,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Valid,merrymeyer705@gmail.com,85,Deliverable
+energyinfo@marmoniei.com,True,marmoniei.com,False,False,False,True,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Valid,merrymeyer703@gmail.com,85,Deliverable
+infrastructureinfo@marmoniei.com,True,marmoniei.com,False,False,False,True,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Valid,merrymeyer705@gmail.com,85,Deliverable
+info@marmoniei.com,True,marmoniei.com,False,True,False,False,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Valid,merrymeyer703@gmail.com,90,Deliverable
+info@gensecurity.com,True,gensecurity.com,False,True,False,False,,"['us-smtp-inbound-1.mimecast.com', 'us-smtp-inbound-2.mimecast.com']",Valid,merrymeyer705@gmail.com,90,Deliverable
+inquiry@ociassociates.com,True,ociassociates.com,False,False,False,False,,['ociassociates-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,100,Deliverable
+christyk@codeconsultants.com,True,codeconsultants.com,False,False,False,True,,['codeconsultants-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+info@bsgi.com,True,bsgi.com,False,True,False,False,,['bsgi-com.mail.eo.outlook.com'],Valid,merrymeyer703@gmail.com,90,Deliverable
+sales@federalcable.net,True,federalcable.net,False,True,False,False,,['federalcable-net.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+info@windsorelectric.com,True,windsorelectric.com,False,True,False,False,,['windsorelectric-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+Kevin.Leary@saftechnologies.com,True,saftechnologies.com,False,False,False,False,,"['saftechnologies.com.1.0001.arsmtp.com', 'saftechnologies.com.2.0001.arsmtp.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+info@saftechnologies.com,True,saftechnologies.com,False,True,False,False,,"['saftechnologies.com.1.0001.arsmtp.com', 'saftechnologies.com.2.0001.arsmtp.com']",Valid,merrymeyer703@gmail.com,90,Deliverable
+support@saftechnologies.com,True,saftechnologies.com,False,True,False,False,,"['saftechnologies.com.1.0001.arsmtp.com', 'saftechnologies.com.2.0001.arsmtp.com']",Valid,merrymeyer705@gmail.com,90,Deliverable
+sales@saftechnologies.com,True,saftechnologies.com,False,True,False,False,,"['saftechnologies.com.1.0001.arsmtp.com', 'saftechnologies.com.2.0001.arsmtp.com']",Valid,merrymeyer705@gmail.com,90,Deliverable
+info@brayerelectric.com,True,brayerelectric.com,False,True,False,False,,['brayerelectric-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+estimating@brayerelectric.com,True,brayerelectric.com,False,False,False,True,,['brayerelectric-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,85,Deliverable
+cbf@cbfelectric.com,True,cbfelectric.com,False,False,False,False,,['cbfelectric-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,100,Deliverable
+mktg@copsmonitoring.com,True,copsmonitoring.com,False,False,False,False,,"['us-smtp-inbound-1.mimecast.com', 'us-smtp-inbound-2.mimecast.com']",Valid,merrymeyer703@gmail.com,100,Deliverable
+hello@american-alarms.com,True,american-alarms.com,False,False,False,False,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,merrymeyer705@gmail.com,100,Deliverable
+salesteam@glbs-techweb.com,True,glbs-techweb.com,False,False,False,True,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com', 'aspmx4.googlemail.com', 'aspmx5.googlemail.com']",Valid,merrymeyer703@gmail.com,85,Deliverable
+alesteam@glbs-techweb.com,True,glbs-techweb.com,False,False,False,True,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com', 'aspmx4.googlemail.com', 'aspmx5.googlemail.com']",Valid,merrymeyer705@gmail.com,85,Deliverable
+contact@andersonfire.com,True,andersonfire.com,False,True,False,False,,['andersonfire-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,90,Deliverable
+info@Ardebilieng.com,True,ardebilieng.com,False,True,False,False,,['ardebilieng-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,90,Deliverable
+info@smithfire.com,True,smithfire.com,False,True,False,False,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,merrymeyer703@gmail.com,90,Deliverable
+info@tpireps.com,True,tpireps.com,False,True,False,False,,"['ms28767613.msv1.invalid.outlook.com', 'tpireps-com.mail.protection.outlook.com']",Valid,merrymeyer705@gmail.com,90,Deliverable
+VikingSupplyNet_eInvoice@supplynet.com,True,supplynet.com,False,False,False,True,,['supplynet-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,85,Deliverable
+customerservice@sobieskiinc.com,True,sobieskiinc.com,False,False,False,True,,['sobieskiinc-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+linc@sobieskiinc.com,True,sobieskiinc.com,False,False,False,False,,['sobieskiinc-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,100,Deliverable
+smssales@sobieskiinc.com,True,sobieskiinc.com,False,False,False,True,,['sobieskiinc-com.mail.protection.outlook.com'],Valid,merrymeyer705@gmail.com,85,Deliverable
+nhcs@sobieskiinc.com,True,sobieskiinc.com,False,False,False,False,,['sobieskiinc-com.mail.protection.outlook.com'],Valid,merrymeyer703@gmail.com,100,Deliverable

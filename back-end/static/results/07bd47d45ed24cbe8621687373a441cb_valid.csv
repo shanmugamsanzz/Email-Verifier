@@ -1,0 +1,2 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,geo,typo_suggestion,mx_records,smtp_status,is_catch_all,score,status
+samebanezar@gmail.com,True,gmail.com,False,False,False,True,US,gmail.com,"['alt1.gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com', 'alt3.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com']",Valid,False,85,Deliverable

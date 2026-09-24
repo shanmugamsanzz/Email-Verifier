@@ -1,0 +1,2 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,typo_suggestion,mx_records,smtp_status,checked_with_smtp,score,status
+steve@specialfire.com,True,specialfire.com,False,False,False,False,,['mail.vpn2.work'],Valid,MX_DIRECT,100,Deliverable

@@ -1,0 +1,52 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,geo,typo_suggestion,mx_records,smtp_status,is_catch_all,score,status
+tony@isrrep.com,True,isrrep.com,False,False,False,False,US,,['isrrep-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tonybenise@benise-dowling.com,True,benise-dowling.com,False,False,False,True,US,,['benisedowling-com01e.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+tonyf@cglsecurity.com,True,cglsecurity.com,False,False,False,False,US,,['cglsecurity-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tonyh@blmss.com,True,blmss.com,False,False,False,False,US,,['blmss-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tpapa@uecny.com,True,uecny.com,False,False,False,False,US,,['uecny-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tpeacocke@sonitrolpacific.com,True,sonitrolpacific.com,False,False,False,True,US,,['sonitrolpacific-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+trace@blackmore-enterprises.com,True,blackmore-enterprises.com,False,False,False,False,US,,['blackmoreenterprises-com02c.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tracy@advancedsecuritysolution.com,True,advancedsecuritysolution.com,False,False,False,False,US,,['advancedsecuritysolution-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+trapp@johnsbrothers.com,True,johnsbrothers.com,False,False,False,False,US,,['johnsbrothers-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+travis.ogden@houndstownusa.com,True,houndstownusa.com,False,False,False,False,US,,['houndstownusa-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+travisgill@townshipservices.com,True,townshipservices.com,False,False,False,True,US,,['townshipservices-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+travisk@valetwastesolutions.com,True,valetwastesolutions.com,False,False,False,False,US,,['valetwastesolutions-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+traynor.flores@bayalarm.com,True,bayalarm.com,False,False,False,False,US,,"['mx-01-us-east-2.prod.hydra.sophos.com', 'mx-02-us-east-2.prod.hydra.sophos.com']",Unknown (554),False,70,Undeliverable
+trevor.jordan@qhshouston.com,True,qhshouston.com,False,False,False,False,US,,"['mx00.ionos.com', 'mx01.ionos.com']",SMTP Failed,False,75,Undeliverable
+trevor@elevatorsupport.com,True,elevatorsupport.com,False,False,False,False,US,,['elevatorsupport-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+trisha@district-clean.com,True,district-clean.com,False,False,False,False,US,,['districtclean-com02b.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+trivet@securitronics.com,True,securitronics.com,False,False,False,False,US,,['securitronics-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+troy@manzanallc.com,True,manzanallc.com,False,False,False,False,US,,['manzanallc-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+troy@mwsecure.com,True,mwsecure.com,False,False,False,False,US,,['mwsecure-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+troy@shield-llc.com,True,shield-llc.com,False,False,False,False,US,,['shieldllc-com01e.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+troyguerrero@istconnected.com,True,istconnected.com,False,False,False,True,Unknown,,"['east.smtp.mx.exch070.serverdata.net', 'west.smtp.mx.exch070.serverdata.net']",Unknown (554),False,55,Undeliverable
+troyl@entersecurity.com,True,entersecurity.com,False,False,False,False,US,,['entersecurity-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+trpark@vectorsecurity.com,True,vectorsecurity.com,False,False,False,False,US,,['vectorsecurity-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+trush@criticalfacilitiessolutions.com,True,criticalfacilitiessolutions.com,False,False,False,False,US,,['criticalfacilitiessolutions-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tsatiro@pennoutdoorservices.com,True,pennoutdoorservices.com,False,False,False,False,US,,['pennoutdoorservices-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+twilliams@inaxsys.com,True,inaxsys.com,False,False,False,True,Unknown,,['inaxsys-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+twilson@groundspro.com,True,groundspro.com,False,False,False,False,US,,['groundspro-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+twynn@gro-dev.com,True,gro-dev.com,False,False,False,False,US,,['grodev-com0i.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tyler.williams@consultantsandbuilders.com,True,consultantsandbuilders.com,False,False,False,True,US,,['consultantsandbuilders-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+tyler@adairflooring.net,True,adairflooring.net,False,False,False,False,US,,['adairflooring-net.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tyler@surfacedynamics.biz,True,surfacedynamics.biz,False,False,False,False,Unknown,,['surfacedynamics-biz.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tylern@digiss.com,True,digiss.com,False,False,False,False,US,,['digiss-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+v.roye@norsou360.com,True,norsou360.com,False,False,False,False,US,,['norsou360-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+valentina@vaulthousemiami.com,True,vaulthousemiami.com,False,False,False,True,US,,['vaulthousemiami-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+vanessa@ferrarasair.com,True,ferrarasair.com,False,False,False,False,US,,['ferrarasair-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+vania@abscomm.com,True,abscomm.com,False,False,False,False,US,,"['east.smtp.mx.exch092.serverdata.net', 'west.smtp.mx.exch092.serverdata.net']",Unknown (554),False,70,Undeliverable
+vaughn@thesecurityforce.com,True,thesecurityforce.com,False,False,False,False,US,,['thesecurityforce-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+vfabiani@servproeml.com,True,servproeml.com,False,False,False,True,US,,['servproeml-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+victor.alexander@dynamicsec.com,True,dynamicsec.com,False,False,False,True,US,,['dynamicsec-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+victor.wainwright@security101.com,True,security101.com,False,False,False,True,Unknown,,['security101-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+vince.gatto@bayalarm.com,True,bayalarm.com,False,False,False,False,US,,"['mx-01-us-east-2.prod.hydra.sophos.com', 'mx-02-us-east-2.prod.hydra.sophos.com']",Unknown (554),False,70,Undeliverable
+vkhaki@rollandsolutions.com,True,rollandsolutions.com,False,False,False,False,US,,['rollandsolutions-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+vnovo@pacmechelectric.com,True,pacmechelectric.com,False,False,False,False,US,,['pacmechelectric-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+voberwise@executivepartners.com,True,executivepartners.com,False,False,False,True,US,,['executivepartners-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+wade@clearscape.net,True,clearscape.net,False,False,False,False,US,,['clearscape-net.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+wade@shwaders.net,True,shwaders.net,False,False,False,False,US,,"['mx1.mtaroutes.com', 'mx2.mtaroutes.com', 'mx3.mtaroutes.com', 'mx4.mtaroutes.com']",SMTP Failed,False,75,Undeliverable
+wade@southeastpartitions.com,True,southeastpartitions.com,False,False,False,False,US,,['southeastpartitions-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+walker@scyardworks.com,True,scyardworks.com,False,False,False,False,US,,['scyardworks-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+wayne.bell@gssiak.com,True,gssiak.com,False,False,False,False,US,,['gssiak-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+wendy.lewis@sisautomotive.com,True,sisautomotive.com,False,False,False,False,US,,"['mailstore1.secureserver.net', 'smtp.secureserver.net']",SMTP Failed,False,75,Undeliverable
+wendy@bowenlandscape.com,True,bowenlandscape.com,False,False,False,False,US,,"['east.smtp.mx.exch081.serverdata.net', 'west.smtp.mx.exch081.serverdata.net']",Unknown (554),False,70,Undeliverable

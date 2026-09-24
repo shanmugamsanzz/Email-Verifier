@@ -1,0 +1,9 @@
+flask
+flask-cors
+python-dotenv
+email-validator
+dnspython
+tldextract
+python-whois
+pandas
+openpyxl

@@ -1,0 +1,3 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,geo,typo_suggestion,mx_records,smtp_status,is_catch_all,score,status
+tony@firato.com,True,firato.com,False,False,False,False,Unknown,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Invalid,False,50,Undeliverable
+vnovo@pacmechelectric.com,True,pacmechelectric.com,False,False,False,False,Unknown,,['pacmechelectric-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable

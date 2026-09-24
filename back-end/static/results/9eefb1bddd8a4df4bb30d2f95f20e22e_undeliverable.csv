@@ -1,0 +1,2 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,geo,typo_suggestion,mx_records,smtp_status,is_catch_all,score,status
+walker@scyardworks.com,True,scyardworks.com,False,False,False,False,US,,['scyardworks-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable

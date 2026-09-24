@@ -1,0 +1,4 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,geo,typo_suggestion,mx_records,smtp_status,is_catch_all,score,status,external_check
+steve@bedfordpaving.com,True,bedfordpaving.com,False,False,False,False,Unknown,,['bedfordpaving-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable,"{'service_status': 'exception', 'error': 'Cannot connect to host api.example.com:443 ssl:default [getaddrinfo failed]'}"
+support@4service.com,True,4service.com,False,True,False,False,Unknown,,['4service-com.mail.protection.outlook.com'],Invalid,False,40,Undeliverable,"{'service_status': 'exception', 'error': 'Cannot connect to host api.example.com:443 ssl:default [getaddrinfo failed]'}"
+support@charanelectrical.com,True,charanelectrical.com,False,True,False,False,US,,,,,5,No MX or A Record,"{'service_status': 'exception', 'error': 'Cannot connect to host api.example.com:443 ssl:default [getaddrinfo failed]'}"

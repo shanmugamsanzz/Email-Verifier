@@ -1,0 +1,15 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,typo_suggestion,mx_records,smtp_status,checked_with_smtp,score,status
+hello@rfuenzalida.com,True,rfuenzalida.com,False,False,False,False,,"['mx1.titan.email', 'mx2.titan.email']",Invalid,None,50,Undeliverable
+CornerstoneService@cornercs.com,True,cornercs.com,False,False,False,True,,['cornercs.in.tmes.trendmicro.com'],Invalid,None,50,Undeliverable
+info@munus-solutions.us,True,munus-solutions.us,False,True,False,False,,"['route1.mx.cloudflare.net', 'route2.mx.cloudflare.net', 'route3.mx.cloudflare.net']",Invalid,None,50,Undeliverable
+sales@dwsecuritysytems.com,False,,,,,,,,,,0,Invalid Syntax
+info@companyname.com,True,companyname.com,False,True,False,False,,['companyname.com'],Invalid,None,50,Undeliverable
+astigma@astigmatic.com,True,astigmatic.com,False,False,False,False,,"['mailstore1.secureserver.net', 'smtp.secureserver.net']",Invalid,None,50,Undeliverable
+sjkegley@kegleyelectric.com,True,kegleyelectric.com,False,False,False,True,,"['mx-01-us-east-2.prod.hydra.sophos.com', 'mx-02-us-east-2.prod.hydra.sophos.com']",Invalid,None,50,Undeliverable
+info@ferrellelectric.net,True,ferrellelectric.net,False,True,False,False,,['ferrellelectric-net.mail.protection.outlook.com'],Invalid,None,50,Undeliverable
+systemsforlife@alarmtech.ca,True,alarmtech.ca,False,False,False,True,,['alarmtech-ca.mail.protection.outlook.com'],Invalid,None,50,Undeliverable
+info@prestigealarm.com,True,prestigealarm.com,False,True,False,False,,"['ALT1.ASPMX.L.GOOGLE.com', 'ALT2.ASPMX.L.GOOGLE.com', 'ASPMX.L.GOOGLE.com', 'ASPMX2.GOOGLEMAIL.com', 'ASPMX3.GOOGLEMAIL.com', 'ASPMX4.GOOGLEMAIL.com', 'ASPMX5.GOOGLEMAIL.com']",Invalid,None,50,Undeliverable
+info@alarmsysteminnovators.com,True,alarmsysteminnovators.com,False,True,False,False,,"['mailstore1.secureserver.net', 'smtp.secureserver.net']",Invalid,None,50,Undeliverable
+info@schultztechnology.com,True,schultztechnology.com,False,True,False,False,,['schultztechnology-com.mail.protection.outlook.com'],Invalid,None,50,Undeliverable
+info@stilsonelectric.com,True,stilsonelectric.com,False,True,False,False,,['stilsonelectric-com.mail.protection.outlook.com'],Invalid,None,50,Undeliverable
+steve@specialfire.com,True,specialfire.com,False,False,False,False,,['mail.vpn2.work'],Invalid,None,50,Undeliverable

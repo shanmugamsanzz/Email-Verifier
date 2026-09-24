@@ -1,0 +1,16 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,typo_suggestion,mx_records,smtp_status,checked_with_smtp,score,status
+INFO@CFP-INTERNATIONAL.COM,True,cfp-international.com,False,True,False,False,,['cfpinternational-com0i.mail.protection.outlook.com'],Invalid,marymeyer702@gmail.com,40,Undeliverable
+kmeier@electricalproductsco.com,True,electricalproductsco.com,False,False,False,False,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Invalid,marymeyer702@gmail.com,50,Undeliverable
+employment@gmsnutech.com,True,gmsnutech.com,False,False,False,True,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Invalid,marymeyer701@gmail.com,35,Undeliverable
+sales@lssasap.com,True,lssasap.com,False,True,False,False,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Invalid,marymeyer701@gmail.com,40,Undeliverable
+toms@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Invalid,marymeyer702@gmail.com,50,Undeliverable
+jayc@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Invalid,marymeyer702@gmail.com,50,Undeliverable
+jeffm@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Invalid,marymeyer701@gmail.com,50,Undeliverable
+randym@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Invalid,marymeyer702@gmail.com,50,Undeliverable
+ralphc@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Invalid,merrymeyer705@gmail.com,50,Undeliverable
+leandrov@pottersignal.com,True,pottersignal.com,False,False,False,True,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Invalid,merrymeyer703@gmail.com,35,Undeliverable
+bpc@pottersignal.com,True,pottersignal.com,False,False,False,False,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Invalid,marymeyer701@gmail.com,50,Undeliverable
+husseinf@pottersignal.com,True,pottersignal.com,False,False,False,True,,"['mx1.hc5461-62.iphmx.com', 'mx2.hc5461-62.iphmx.com']",Invalid,merrymeyer703@gmail.com,35,Undeliverable
+info@somersetfas.com,True,somersetfas.com,False,True,False,False,,['somersetfas-com.mail.protection.outlook.com'],Invalid,marymeyer701@gmail.com,40,Undeliverable
+info@contechco.com,True,contechco.com,False,True,False,False,,['contechco-com.mail.protection.outlook.com'],Invalid,marymeyer702@gmail.com,40,Undeliverable
+inquiry@natfiresafety.com,True,natfiresafety.com,False,False,False,False,,"['d221240a.ess.barracudanetworks.com', 'd221240b.ess.barracudanetworks.com']",Invalid,merrymeyer705@gmail.com,50,Undeliverable

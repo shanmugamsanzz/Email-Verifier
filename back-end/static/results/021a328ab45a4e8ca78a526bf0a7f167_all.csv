@@ -1,0 +1,2 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,typo_suggestion,mx_records,smtp_status,checked_with_smtp,score,status
+info@skinnerinnovations.com,True,skinnerinnovations.com,False,True,False,False,,['mail.skinnerinnovations.com'],Valid,MX_DIRECT,90,Deliverable

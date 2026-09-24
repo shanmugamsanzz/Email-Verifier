@@ -1,0 +1,5 @@
+{
+  "name": "VeriFast Email Verification Platform",
+  "description": "A comprehensive email verification platform with role-based dashboards for users, premium members, and administrators. Features include bulk email validation, job progress tracking, detailed analytics, and system management.",
+  "requestFramePermissions": []
+}

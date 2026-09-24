@@ -1,0 +1,10 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,typo_suggestion,mx_records,smtp_status,checked_with_smtp,score,status
+info@techsolutionsiowa.com,True,techsolutionsiowa.com,False,True,False,False,,['techsolutionsiowa-com.mail.protection.outlook.com'],Invalid,marymeyer702@gmail.com,40,Undeliverable
+info@ccefresno.com,True,ccefresno.com,False,True,False,False,,['ccefresno-com.mail.protection.outlook.com'],Invalid,marymeyer702@gmail.com,40,Undeliverable
+sales@dwsecuritysytems.com,False,,,,,,,,,,0,Invalid Syntax
+info@companyname.com,True,companyname.com,False,True,False,False,,['companyname.com'],Invalid,marymeyer702@gmail.com,40,Undeliverable
+info@omnitechnologyusa.com,True,omnitechnologyusa.com,False,True,False,False,,['omnitechnologyusa-com.mail.protection.outlook.com'],Invalid,marymeyer702@gmail.com,40,Undeliverable
+info@omniresourceusa.com,True,omniresourceusa.com,False,True,False,False,,['omniresourceusa-com.mail.protection.outlook.com'],Invalid,marymeyer702@gmail.com,40,Undeliverable
+astigma@astigmatic.com,True,astigmatic.com,False,False,False,False,,"['mailstore1.secureserver.net', 'smtp.secureserver.net']",Invalid,marymeyer702@gmail.com,50,Undeliverable
+systemsforlife@alarmtech.ca,True,alarmtech.ca,False,False,False,True,,['alarmtech-ca.mail.protection.outlook.com'],Invalid,marymeyer701@gmail.com,35,Undeliverable
+AlarmtechYourLocalPro@alarmtech.ca,True,alarmtech.ca,False,False,False,True,,['alarmtech-ca.mail.protection.outlook.com'],Invalid,marymeyer701@gmail.com,35,Undeliverable

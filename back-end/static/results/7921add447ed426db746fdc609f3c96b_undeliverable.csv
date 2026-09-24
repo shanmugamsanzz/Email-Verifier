@@ -1,0 +1,19 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,typo_suggestion,mx_records,smtp_status,checked_with_smtp,score,status
+Firetronics@Firetronics.com,True,firetronics.com,False,False,False,True,,['mail.firetronics.com'],Invalid,None,35,Undeliverable
+info@atkins-systems.com,True,atkins-systems.com,False,True,False,False,,['mail.atkins-systems.com'],Invalid,None,40,Undeliverable
+info@securecom.net,True,securecom.net,False,True,False,False,,"['bsfeug001.ascentit.net', 'us1-smtp-mx1.titanhq.com', 'us1-smtp-mx2.titanhq.com']",Invalid,None,40,Undeliverable
+mymail@mailservice.com,True,mailservice.com,False,False,False,False,,['mx.mailservice.com'],Invalid,None,50,Undeliverable
+sebastian@aldusleaf.org,True,aldusleaf.org,False,False,False,True,,"['aspmx1.migadu.com', 'aspmx2.migadu.com']",Invalid,None,35,Undeliverable
+INFO@FIRETOX.COM,True,firetox.com,False,True,False,False,,"['mxa-00591501.gslb.pphosted.com', 'mxb-00591501.gslb.pphosted.com']",Invalid,None,40,Undeliverable
+info@psi90.com,True,psi90.com,False,True,False,False,,"['mx.zoho.com', 'mx2.zoho.com', 'mx3.zoho.com']",Invalid,None,40,Undeliverable
+info@deltafireprotection.com,True,deltafireprotection.com,False,True,False,False,,['deltafireprotection-com.mail.protection.outlook.com'],Invalid,None,40,Undeliverable
+bsmith@smithfp.com,True,smithfp.com,False,False,False,False,,"['smtp1-mke.securence.com', 'smtp1-msp.securence.com']",Invalid,None,50,Undeliverable
+design@fireprodesignco.com,True,fireprodesignco.com,False,False,False,False,,"['mx.zoho.com', 'mx2.zoho.com', 'mx3.zoho.com']",Invalid,None,50,Undeliverable
+info@webb-engineering.com,True,webb-engineering.com,False,True,False,False,,['webbengineering-com01b.mail.protection.outlook.com'],Invalid,None,40,Undeliverable
+helpdesk@team-icsc.om,False,,,,,,,,,,0,Invalid Syntax
+info@ndiscovered.com,True,ndiscovered.com,False,True,False,False,,"['route1.mx.cloudflare.net', 'route2.mx.cloudflare.net', 'route3.mx.cloudflare.net']",Invalid,None,40,Undeliverable
+ces@cescomplete.com,True,cescomplete.com,False,False,False,False,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Invalid,None,50,Undeliverable
+Info@averillelectric.com,True,averillelectric.com,False,True,False,False,,"['mx00.1and1.com', 'mx01.1and1.com']",Invalid,None,40,Undeliverable
+info@sodonselectric.com,True,sodonselectric.com,False,True,False,False,,['sodonselectric-com.mail.protection.outlook.com'],Invalid,None,40,Undeliverable
+tandcmo@outlook.com,True,outlook.com,False,False,False,False,outlook.com,['outlook-com.olc.protection.outlook.com'],Invalid,None,50,Undeliverable
+info@alarmdesignsolutions.com,False,,,,,,,,,,0,Invalid Syntax

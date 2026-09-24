@@ -1,0 +1,15 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,typo_suggestion,mx_records,smtp_status,checked_with_smtp,score,status
+mike@easternsecurity.net,True,easternsecurity.net,False,False,False,False,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Invalid,marymeyer701@gmail.com,50,Undeliverable
+jgrosso@easternsecurty.net,False,,,,,,,,,,0,Invalid Syntax
+cornerstone@qode.com,True,qode.com,False,False,False,True,,,,,5,No MX or A Record
+QCscheduling@certasitepro.com,True,certasitepro.com,False,False,False,True,,['certasitepro-com.mail.protection.outlook.com'],Invalid,marymeyer702@gmail.com,35,Undeliverable
+walter@tqfsi.com,True,tqfsi.com,False,False,False,False,,['d323155a.ess.barracudanetworks.com'],Invalid,marymeyer702@gmail.com,50,Undeliverable
+srooney@martinalexander.com,True,martinalexander.com,False,False,False,False,,['martinalexander-com.mail.protection.outlook.com'],Invalid,marymeyer702@gmail.com,50,Undeliverable
+info@stopfire.com,True,stopfire.com,False,True,False,False,,['stopfire-com.mail.protection.outlook.com'],Invalid,marymeyer701@gmail.com,40,Undeliverable
+info@akamco.co,True,akamco.co,False,True,False,False,,['mail.akamco.co'],Invalid,merrymeyer703@gmail.com,40,Undeliverable
+sales@akamco.co,True,akamco.co,False,True,False,False,,['mail.akamco.co'],Invalid,marymeyer701@gmail.com,40,Undeliverable
+sales@lapptannehill.com,True,lapptannehill.com,False,True,False,False,,['mxtls.expurgate.net'],Invalid,marymeyer702@gmail.com,40,Undeliverable
+sales@fireprotechllc.com,True,fireprotechllc.com,False,True,False,False,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Invalid,merrymeyer705@gmail.com,40,Undeliverable
+sales@nextsecuritycorp.com,True,nextsecuritycorp.com,False,True,False,False,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Invalid,merrymeyer703@gmail.com,40,Undeliverable
+info@nextsecuritycorp.com,True,nextsecuritycorp.com,False,True,False,False,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Invalid,marymeyer701@gmail.com,40,Undeliverable
+info@tradestarinc.com,True,tradestarinc.com,False,True,False,False,,['tradestarinc-com.mail.protection.outlook.com'],Invalid,marymeyer702@gmail.com,40,Undeliverable

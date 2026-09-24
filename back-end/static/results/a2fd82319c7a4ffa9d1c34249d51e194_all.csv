@@ -1,0 +1,2 @@
+input,status,valid_syntax,score,external_check
+sadasf@hnlsdajf,Invalid Syntax,False,0,"{'service_status': 'exception', 'error': 'Cannot connect to host api.example.com:443 ssl:default [getaddrinfo failed]'}"

@@ -1,0 +1,8 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,typo_suggestion,mx_records,smtp_status,checked_with_smtp,score,status
+sales@firealarmsystemtechnology.com,True,firealarmsystemtechnology.com,False,True,False,False,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Invalid,marymeyer701@gmail.com,40,Undeliverable
+sales@3alarmfp.com,True,3alarmfp.com,False,True,False,False,,['3alarmfp-com.mail.protection.outlook.com'],Invalid,marymeyer702@gmail.com,40,Undeliverable
+LifeSafety@coconcepts.com,True,coconcepts.com,False,False,False,True,,"['coconcepts-com.mail.protection.outlook.com', 'd180003a.ess.barracudanetworks.com', 'd180003b.ess.barracudanetworks.com']",Invalid,marymeyer702@gmail.com,35,Undeliverable
+service@bestdefense.com,True,bestdefense.com,False,True,False,False,,['bestdefense-com.mail.protection.outlook.com'],Invalid,marymeyer702@gmail.com,40,Undeliverable
+jobs@bestdefense.com,True,bestdefense.com,False,False,False,False,,['bestdefense-com.mail.protection.outlook.com'],Invalid,marymeyer701@gmail.com,50,Undeliverable
+helpdesk@team-icsc.om,False,,,,,,,,,,0,Invalid Syntax
+info@alarmdesignsolutions.com,False,,,,,,,,,,0,Invalid Syntax

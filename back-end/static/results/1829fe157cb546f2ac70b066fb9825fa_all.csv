@@ -1,0 +1,10 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,typo_suggestion,mx_records,smtp_status,checked_with_smtp,score,status
+info@a-central.com,True,a-central.com,False,True,False,False,,['acentral-com0c.mail.protection.outlook.com'],Valid,MX_DIRECT,100,Deliverable
+contact@madisonasbestos.com,True,madisonasbestos.com,False,True,False,False,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com']",Valid,MX_DIRECT,100,Deliverable
+contact@es-america.com,True,es-america.com,False,True,False,False,,['smtp.google.com'],Valid,MX_DIRECT,100,Deliverable
+northenvironmentalabatement@gmail.com,True,gmail.com,False,False,False,True,gmail.com,"['alt1.gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com', 'alt3.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com']",Valid,MX_DIRECT,100,Deliverable
+envirotestoffice@gmail.com,True,gmail.com,False,False,False,True,gmail.com,"['alt1.gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com', 'alt3.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com']",Valid,MX_DIRECT,100,Deliverable
+watestingllc@gmail.com,True,gmail.com,False,False,False,True,gmail.com,"['alt1.gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com', 'alt3.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com']",Valid,MX_DIRECT,100,Deliverable
+customerservice@leadlab.com,True,leadlab.com,False,False,False,True,,['leadlab-com.mail.protection.outlook.com'],Valid,MX_DIRECT,100,Deliverable
+info@asbestostesting.com,True,asbestostesting.com,False,True,False,False,,['mx2-hosting.jellyfish.systems'],Valid,MX_DIRECT,100,Deliverable
+danl@asbestosnw.com,True,asbestosnw.com,False,False,False,False,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com', 'mailstore1.secureserver.net', 'smtp.secureserver.net']",Valid,MX_DIRECT,100,Deliverable

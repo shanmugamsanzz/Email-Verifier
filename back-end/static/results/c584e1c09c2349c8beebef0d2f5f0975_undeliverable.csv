@@ -1,0 +1,19 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,geo,typo_suggestion,mx_records,smtp_status,is_catch_all,score,status
+tony@constructioncleaninginc.com,True,constructioncleaninginc.com,False,False,False,False,US,,['constructioncleaninginc-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tpoche@techpropowergroup.com,True,techpropowergroup.com,False,False,False,False,US,,['techpropowergroup-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+traci@subzeroindustrialcleaning.com,True,subzeroindustrialcleaning.com,False,False,False,False,US,,['subzeroindustrialcleaning-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+trenbath@mbsportland.com,True,mbsportland.com,False,False,False,True,US,,['mbsportland-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+tricia.edwards@hellopestcontrol.co,True,hellopestcontrol.co,False,False,False,False,US,,['hellopestcontrol-co.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tworrell@firesteelcreek.com,True,firesteelcreek.com,False,False,False,True,US,,"['mx.zoho.com', 'mx2.zoho.com', 'mx3.zoho.com']",Invalid,False,35,Undeliverable
+tyler.lyons@3xlogic.com,True,3xlogic.com,False,False,False,False,SE,,['3xlogic-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tyler@vge.net,True,vge.net,False,False,False,False,US,,['vge-net.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+valden@orangepeeltechnologies.com,True,orangepeeltechnologies.com,False,False,False,False,US,,['alt2.aspmx.l.google.com'],Invalid,False,50,Undeliverable
+vince.reese@aesglobalonline.com,True,aesglobalonline.com,False,False,False,False,Unknown,,['aesglobalonline-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+vlee@servicemasterfm.com,True,servicemasterfm.com,False,False,False,False,US,,"['btmemphis-mx1.titanhq.com', 'servicemasterfm-com.mail.protection.outlook.com']",Unknown (554),False,70,Undeliverable
+vpudelski@jantechups.com,True,jantechups.com,False,False,False,True,US,,['jantechups-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+ward.meldrum@convergint.com,True,convergint.com,False,False,False,False,US,,['convergint-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+william.geist@themadisonenergygroup.com,True,themadisonenergygroup.com,False,False,False,False,US,,['themadisonenergygroup-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+william.teal@atlanticfire.net,True,atlanticfire.net,False,False,False,False,US,,['atlanticfire-net.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+william@tcsbas.com,True,tcsbas.com,False,False,False,False,US,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Invalid,False,50,Undeliverable
+wmartin@riverbendlandscaping.com,True,riverbendlandscaping.com,False,False,False,False,US,,['riverbendlandscaping-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+yi-tien.tuan@ltsecurityinc.com,True,ltsecurityinc.com,False,False,False,False,US,,['ltsecurityinc-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable

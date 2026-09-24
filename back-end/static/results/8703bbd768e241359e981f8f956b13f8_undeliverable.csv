@@ -1,0 +1,9 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,typo_suggestion,mx_records,smtp_status,checked_with_smtp,score,status
+mymail@mailservice.com,True,mailservice.com,False,False,False,False,,['mx.mailservice.com'],Invalid,marymeyer701@gmail.com,50,Undeliverable
+info@protelvd.com,True,protelvd.com,False,True,False,False,,['protelvd-com.mail.protection.outlook.com'],Invalid,marymeyer701@gmail.com,40,Undeliverable
+NWAFAA.com@gmail.com,True,gmail.com,False,False,False,False,gmail.com,"['alt1.gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com', 'alt3.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com']",Invalid,marymeyer702@gmail.com,50,Undeliverable
+info@otebids.com,True,otebids.com,False,True,False,False,,['otebids-com.mail.protection.outlook.com'],Invalid,marymeyer702@gmail.com,40,Undeliverable
+service@bestdefense.com,True,bestdefense.com,False,True,False,False,,['bestdefense-com.mail.protection.outlook.com'],Invalid,marymeyer701@gmail.com,40,Undeliverable
+support@stewartelectricalcontracting.com,True,stewartelectricalcontracting.com,False,True,False,False,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com']",Invalid,marymeyer702@gmail.com,40,Undeliverable
+info@allproelectric.com,True,allproelectric.com,False,True,False,False,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com']",Invalid,marymeyer702@gmail.com,40,Undeliverable
+info@webb-engineering.com,True,webb-engineering.com,False,True,False,False,,['webbengineering-com01b.mail.protection.outlook.com'],Invalid,marymeyer702@gmail.com,40,Undeliverable

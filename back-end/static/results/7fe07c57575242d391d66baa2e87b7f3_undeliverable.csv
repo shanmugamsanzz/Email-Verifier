@@ -1,0 +1,2 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,typo_suggestion,mx_records,smtp_status,checked_with_smtp,score,status
+shanmu@gamil.com,True,gamil.com,False,False,False,False,gmail.com,['mail.gamil.com'],Invalid,None,50,Undeliverable

@@ -1,0 +1,133 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,geo,typo_suggestion,mx_records,smtp_status,is_catch_all,score,status
+tony@elevate-outdoor.com,True,elevate-outdoor.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,100,Deliverable
+tony@everlinecoatings.com,True,everlinecoatings.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com']",Valid,False,100,Deliverable
+tony@firato.com,True,firato.com,False,False,False,False,US,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Valid,False,100,Deliverable
+tony@isrrep.com,True,isrrep.com,False,False,False,False,US,,['isrrep-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tony@marksmansecurity.com,True,marksmansecurity.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com', 'ms72526191.msv1.invalid']",Valid,False,100,Deliverable
+tony@rmtcam.com,True,rmtcam.com,False,False,False,False,US,,['rmtcam-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+tony@sdci.net,True,sdci.net,False,False,False,False,US,,['mail.sdci.net'],Valid,False,100,Deliverable
+tony@steamprova.com,True,steamprova.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,100,Deliverable
+tony@twfabrication.com,True,twfabrication.com,False,False,False,False,Unknown,,['twfabrication-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+tonyagm@mangasglobal.com,True,mangasglobal.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,100,Deliverable
+tonybaumgartner@thepavercompany.com,True,thepavercompany.com,False,False,False,True,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com']",Valid,False,85,Deliverable
+tonybenise@benise-dowling.com,True,benise-dowling.com,False,False,False,True,US,,['benisedowling-com01e.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+tonyf@cglsecurity.com,True,cglsecurity.com,False,False,False,False,US,,['cglsecurity-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tonyh@blmss.com,True,blmss.com,False,False,False,False,US,,['blmss-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tonym@hssems.com,True,hssems.com,False,False,False,False,US,,['hssems-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+tpapa@uecny.com,True,uecny.com,False,False,False,False,US,,['uecny-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tpeacocke@sonitrolpacific.com,True,sonitrolpacific.com,False,False,False,True,US,,['sonitrolpacific-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+tquinn@easternservices.com,True,easternservices.com,False,False,False,False,US,,['easternservices-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+tr@majimoto.co.uk,True,majimoto.co.uk,False,False,False,False,Unknown,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com', 'aspmx4.googlemail.com', 'aspmx5.googlemail.com']",Valid,False,100,Deliverable
+trace@blackmore-enterprises.com,True,blackmore-enterprises.com,False,False,False,False,US,,['blackmoreenterprises-com02c.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tracey@ccccleans.com,True,ccccleans.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com']",Valid,False,100,Deliverable
+tracey@floorfriction.com,True,floorfriction.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,100,Deliverable
+tracy.castle@ivelah.com,True,ivelah.com,False,False,False,False,US,,['ivelah-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+tracy.olds@trmechanical.com,True,trmechanical.com,False,False,False,False,US,,['trmechanical-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+tracy@advancedsecuritysolution.com,True,advancedsecuritysolution.com,False,False,False,False,US,,['advancedsecuritysolution-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tracy@dsm-cleaningservices.com,True,dsm-cleaningservices.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,100,Deliverable
+tracy@tracysdynamiccleaning.com,True,tracysdynamiccleaning.com,False,False,False,False,US,,['tracysdynamiccleaning-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+trader@rlnrp.com,True,rlnrp.com,False,False,False,False,US,,['rlnrp-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+trapp@johnsbrothers.com,True,johnsbrothers.com,False,False,False,False,US,,['johnsbrothers-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+travis.boddeker@esi-fs.com,True,esi-fs.com,False,False,False,True,US,,"['mx1-us2.ppe-hosted.com', 'mx2-us2.ppe-hosted.com']",Valid,False,85,Deliverable
+travis.ogden@houndstownusa.com,True,houndstownusa.com,False,False,False,False,US,,['houndstownusa-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+travis@prospectrdigital.com,True,prospectrdigital.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,100,Deliverable
+travis@silkstonegroup.com,True,silkstonegroup.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,100,Deliverable
+travis@vertechservices.net,True,vertechservices.net,False,False,False,False,US,,"['vertechservices-net.inbound.emailservice.cc', 'vertechservices-net.inbound.emailservice.co', 'vertechservices-net.inbound.emailservice.io']",Valid,False,100,Deliverable
+travisfaber@hendricksheating.com,True,hendricksheating.com,False,False,False,True,CA,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,85,Deliverable
+travisgill@townshipservices.com,True,townshipservices.com,False,False,False,True,US,,['townshipservices-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+travisk@valetwastesolutions.com,True,valetwastesolutions.com,False,False,False,False,US,,['valetwastesolutions-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+travismaupin@heavensbestsandiego.com,True,heavensbestsandiego.com,False,False,False,True,US,,"['ALT1.ASPMX.L.GOOGLE.com', 'ALT2.ASPMX.L.GOOGLE.com', 'ALT3.ASPMX.L.GOOGLE.com', 'ALT4.ASPMX.L.GOOGLE.com', 'ASPMX.L.GOOGLE.com']",Valid,False,85,Deliverable
+traynor.flores@bayalarm.com,True,bayalarm.com,False,False,False,False,US,,"['mx-01-us-east-2.prod.hydra.sophos.com', 'mx-02-us-east-2.prod.hydra.sophos.com']",Unknown (554),False,70,Undeliverable
+treierson@plantsexpress.com,True,plantsexpress.com,False,False,False,True,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,85,Deliverable
+trevor.jordan@qhshouston.com,True,qhshouston.com,False,False,False,False,US,,"['mx00.ionos.com', 'mx01.ionos.com']",SMTP Failed,False,75,Undeliverable
+trevor@elevatorsupport.com,True,elevatorsupport.com,False,False,False,False,US,,['elevatorsupport-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+trey@coyotecreektn.com,True,coyotecreektn.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,100,Deliverable
+trey@resourcefloorcare.com,True,resourcefloorcare.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com']",Valid,False,100,Deliverable
+triedel@dmp.com,True,dmp.com,False,False,False,False,US,,"['us-smtp-inbound-1.mimecast.com', 'us-smtp-inbound-2.mimecast.com']",Valid,False,100,Deliverable
+trish@tlccleaningexperts.com,True,tlccleaningexperts.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com', 'qjjcgncbjvfwfrdigh7g5jypett7ceoulzzrzmj2gwhfzvvezeuq.mx-verification.google.com']",Valid,False,100,Deliverable
+trisha@district-clean.com,True,district-clean.com,False,False,False,False,US,,['districtclean-com02b.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+trivet@securitronics.com,True,securitronics.com,False,False,False,False,US,,['securitronics-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+trose@hollydaysnursery.com,True,hollydaysnursery.com,False,False,False,False,US,,"['ALT1.ASPMX.L.GOOGLE.com', 'ALT2.ASPMX.L.GOOGLE.com', 'ALT3.ASPMX.L.GOOGLE.com', 'ALT4.ASPMX.L.GOOGLE.com', 'ASPMX.L.GOOGLE.com']",Valid,False,100,Deliverable
+troy.clogg@troyclogg.com,True,troyclogg.com,False,False,False,False,US,,['troyclogg-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+troy@manzanallc.com,True,manzanallc.com,False,False,False,False,US,,['manzanallc-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+troy@mwsecure.com,True,mwsecure.com,False,False,False,False,US,,['mwsecure-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+troy@shield-llc.com,True,shield-llc.com,False,False,False,False,US,,['shieldllc-com01e.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+troy@sprinkguard.com,True,sprinkguard.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com', 'aspmx4.googlemail.com', 'aspmx5.googlemail.com']",Valid,False,100,Deliverable
+troyguerrero@istconnected.com,True,istconnected.com,False,False,False,True,Unknown,,"['east.smtp.mx.exch070.serverdata.net', 'west.smtp.mx.exch070.serverdata.net']",Unknown (554),False,55,Undeliverable
+troyl@entersecurity.com,True,entersecurity.com,False,False,False,False,US,,['entersecurity-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+trpark@vectorsecurity.com,True,vectorsecurity.com,False,False,False,False,US,,['vectorsecurity-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+trush@criticalfacilitiessolutions.com,True,criticalfacilitiessolutions.com,False,False,False,False,US,,['criticalfacilitiessolutions-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tsatiro@pennoutdoorservices.com,True,pennoutdoorservices.com,False,False,False,False,US,,['pennoutdoorservices-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tsmith@dtkinc.com,True,dtkinc.com,False,False,False,False,US,,['dtkinc-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+ttalaugon@teamwrkx.com,True,teamwrkx.com,False,False,False,True,US,,['teamwrkx-com.mail.protection.outlook.com'],Valid,False,85,Deliverable
+tvandyke@puroclean.com,True,puroclean.com,False,False,False,True,US,,['puroclean-com.mail.protection.outlook.com'],Valid,False,85,Deliverable
+tvickers@unitedairfilter.com,True,unitedairfilter.com,False,False,False,True,US,,['unitedairfilter-com.mail.protection.outlook.com'],Valid,False,85,Deliverable
+twilliams@inaxsys.com,True,inaxsys.com,False,False,False,True,Unknown,,['inaxsys-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+twilson@groundspro.com,True,groundspro.com,False,False,False,False,US,,['groundspro-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+twynn@gro-dev.com,True,gro-dev.com,False,False,False,False,US,,['grodev-com0i.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tyler.williams@consultantsandbuilders.com,True,consultantsandbuilders.com,False,False,False,True,US,,['consultantsandbuilders-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+tyler@adairflooring.net,True,adairflooring.net,False,False,False,False,US,,['adairflooring-net.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tyler@surfacedynamics.biz,True,surfacedynamics.biz,False,False,False,False,Unknown,,['surfacedynamics-biz.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tylern@digiss.com,True,digiss.com,False,False,False,False,US,,['digiss-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tyrone@boulderfallsinc.com,True,boulderfallsinc.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,100,Deliverable
+tyson@infinitybldgllc.com,True,infinitybldgllc.com,False,False,False,False,US,,['infinitybldgllc-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+ugur@mobilebusiness2go.com,True,mobilebusiness2go.com,False,False,False,False,US,,"['mx1-usg1.ppe-hosted.com', 'mx2-usg1.ppe-hosted.com', 'mx3-usg1.ppe-hosted.com']",Valid,False,100,Deliverable
+uli@commongoodcleaning.com,True,commongoodcleaning.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,100,Deliverable
+ulrich@groundedearthservices.com,True,groundedearthservices.com,False,False,False,False,Unknown,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,100,Deliverable
+v.roye@norsou360.com,True,norsou360.com,False,False,False,False,US,,['norsou360-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+vadimlorick@crystalclearsc.com,True,crystalclearsc.com,False,False,False,True,Unknown,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,85,Deliverable
+val@ccicleaning.com,True,ccicleaning.com,False,False,False,False,US,,['ccicleaning-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+valarie.acree@proactiveprotections.com,True,proactiveprotections.com,False,False,False,False,IS,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com']",Valid,False,100,Deliverable
+valentina@vaulthousemiami.com,True,vaulthousemiami.com,False,False,False,True,US,,['vaulthousemiami-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+vanessa.donzel@cluttergone.biz,True,cluttergone.biz,False,False,False,False,Unknown,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,100,Deliverable
+vanessa@ferrarasair.com,True,ferrarasair.com,False,False,False,False,US,,['ferrarasair-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+vania@abscomm.com,True,abscomm.com,False,False,False,False,US,,"['east.smtp.mx.exch092.serverdata.net', 'west.smtp.mx.exch092.serverdata.net']",Unknown (554),False,70,Undeliverable
+vasili@ecotekny.com,True,ecotekny.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,100,Deliverable
+vassilis@alphasecuritycameras.com,True,alphasecuritycameras.com,False,False,False,True,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,85,Deliverable
+vaughn@thesecurityforce.com,True,thesecurityforce.com,False,False,False,False,US,,['thesecurityforce-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+vcaputo@insparisk.com,True,insparisk.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com']",Valid,False,100,Deliverable
+veronica@ae-building.com,True,ae-building.com,False,False,False,True,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,85,Deliverable
+vfabiani@servproeml.com,True,servproeml.com,False,False,False,True,US,,['servproeml-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+victor.alexander@dynamicsec.com,True,dynamicsec.com,False,False,False,True,US,,['dynamicsec-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+victor.wainwright@security101.com,True,security101.com,False,False,False,True,Unknown,,['security101-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+victor@normandycarpet.com,True,normandycarpet.com,False,False,False,False,US,,['normandycarpet-com.mail.eo.outlook.com'],Valid,False,100,Deliverable
+victoria@apands.com,True,apands.com,False,False,False,True,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,85,Deliverable
+vignesh@useopenwrench.com,True,useopenwrench.com,False,False,False,False,GB,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com', 'hlmovvyebrtuk7bmhdy6kic735jlyrjyb6j7sobunrlkqyekuryq.mx-verification.google.com']",Valid,False,100,Deliverable
+viktoriya@calgarytrustedcleaners.ca,True,calgarytrustedcleaners.ca,False,False,False,True,Unknown,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,85,Deliverable
+vince.gatto@bayalarm.com,True,bayalarm.com,False,False,False,False,US,,"['mx-01-us-east-2.prod.hydra.sophos.com', 'mx-02-us-east-2.prod.hydra.sophos.com']",Unknown (554),False,70,Undeliverable
+vince@thewaterguru.com,True,thewaterguru.com,False,False,False,False,US,,['thewaterguru-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+vinita@taylorlong.com,True,taylorlong.com,False,False,False,False,US,,"['ALT1.ASPMX.L.GOOGLE.com', 'ALT2.ASPMX.L.GOOGLE.com', 'ASPMX.L.GOOGLE.com', 'ASPMX2.GOOGLEMAIL.com', 'ASPMX3.GOOGLEMAIL.com', 'ASPMX4.GOOGLEMAIL.com', 'ASPMX5.GOOGLEMAIL.com']",Valid,False,100,Deliverable
+vivian.holder@facilityrx.com,True,facilityrx.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,100,Deliverable
+vkhaki@rollandsolutions.com,True,rollandsolutions.com,False,False,False,False,US,,['rollandsolutions-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+vmaione@mysmartinspect.com,True,mysmartinspect.com,False,False,False,False,GB,,['mysmartinspect-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+vmoran@tqservices.biz,True,tqservices.biz,False,False,False,False,Unknown,,['tqservices-biz.mail.protection.outlook.com'],Valid,False,100,Deliverable
+vnovo@pacmechelectric.com,True,pacmechelectric.com,False,False,False,False,US,,['pacmechelectric-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+voberwise@executivepartners.com,True,executivepartners.com,False,False,False,True,US,,['executivepartners-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+vrdivalerio@vectorsecurity.com,True,vectorsecurity.com,False,False,False,True,US,,['vectorsecurity-com.mail.protection.outlook.com'],Valid,False,85,Deliverable
+vti@vtisecurity.com,True,vtisecurity.com,False,False,False,False,US,,['vtisecurity-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+wade@clearscape.net,True,clearscape.net,False,False,False,False,US,,['clearscape-net.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+wade@shwaders.net,True,shwaders.net,False,False,False,False,US,,"['mx1.mtaroutes.com', 'mx2.mtaroutes.com', 'mx3.mtaroutes.com', 'mx4.mtaroutes.com']",SMTP Failed,False,75,Undeliverable
+wade@southeastpartitions.com,True,southeastpartitions.com,False,False,False,False,US,,['southeastpartitions-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+walker@scyardworks.com,True,scyardworks.com,False,False,False,False,US,,['scyardworks-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+walter@comm-clean.ca,True,comm-clean.ca,False,False,False,False,Unknown,,['commclean-ca01b.mail.protection.outlook.com'],Valid,False,100,Deliverable
+walter@flotillapartners.com,True,flotillapartners.com,False,False,False,False,US,,['flotillapartners-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+wanda@palfirepro.com,True,palfirepro.com,False,False,False,False,US,,['palfirepro-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+ward@petruslandscape.com,True,petruslandscape.com,False,False,False,False,Unknown,,"['ALT1.ASPMX.L.GOOGLE.com', 'ALT2.ASPMX.L.GOOGLE.com', 'ALT3.ASPMX.L.GOOGLE.com', 'ALT4.ASPMX.L.GOOGLE.com', 'ASPMX.L.GOOGLE.com']",Valid,False,100,Deliverable
+warren@breakalegtheater.com,True,breakalegtheater.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com']",Valid,False,100,Deliverable
+warrensmith@cavalryclean.com,True,cavalryclean.com,False,False,False,True,US,,"['ALT1.ASPMX.L.GOOGLE.com', 'ALT2.ASPMX.L.GOOGLE.com', 'ALT3.ASPMX.L.GOOGLE.com', 'ALT4.ASPMX.L.GOOGLE.com', 'ASPMX.L.GOOGLE.com']",Valid,False,85,Deliverable
+warris@marksmansecurity.com,True,marksmansecurity.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com', 'ms72526191.msv1.invalid']",Valid,False,100,Deliverable
+wartey@arteybioservices.com,True,arteybioservices.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,100,Deliverable
+wayne.beamish@powerhousemgt.ca,True,powerhousemgt.ca,False,False,False,False,Unknown,,"['mx-cluster-ca-fallback.hornetsecurity.com', 'mx-cluster-ca01.hornetsecurity.com', 'mx-cluster-ca02.hornetsecurity.com', 'mx-cluster-ca03.hornetsecurity.com']",Valid,False,100,Deliverable
+wayne.bell@gssiak.com,True,gssiak.com,False,False,False,False,US,,['gssiak-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+wayne.campbell@campbellmarinesolution.com,True,campbellmarinesolution.com,False,False,False,True,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,85,Deliverable
+wayne.korte@4sci.com,True,4sci.com,False,False,False,False,US,,['smtp.4sci.com'],Valid,False,100,Deliverable
+wayne@bloomingbeds.com,True,bloomingbeds.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,100,Deliverable
+wbeck@acom.us,True,acom.us,False,False,False,False,Unknown,,"['acom-us.p10.mxthunder.com', 'acom-us.p20.mxthunder.net', 'acom-us.p30.mxthunder.net', 'acom-us.p40.mxthunder.net']",Valid,False,100,Deliverable
+wbs@whitlockservices.com,True,whitlockservices.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com']",Valid,False,100,Deliverable
+wel@solsinc.com,True,solsinc.com,False,False,False,False,US,,['solsinc-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+wendell@jasconstructiongroup.com,True,jasconstructiongroup.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com']",Valid,False,100,Deliverable
+wendy.lewis@sisautomotive.com,True,sisautomotive.com,False,False,False,False,US,,"['mailstore1.secureserver.net', 'smtp.secureserver.net']",SMTP Failed,False,75,Undeliverable
+wendy@basicallyblinds.net,True,basicallyblinds.net,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com', 'basicallyblinds.net']",Valid,False,100,Deliverable
+wendy@bowenlandscape.com,True,bowenlandscape.com,False,False,False,False,US,,"['east.smtp.mx.exch081.serverdata.net', 'west.smtp.mx.exch081.serverdata.net']",Unknown (554),False,70,Undeliverable
+wendy@spacegemcandy.com,True,spacegemcandy.com,False,False,False,False,US,,"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com']",Valid,False,100,Deliverable
+wes@capitalbldg.com,True,capitalbldg.com,False,False,False,False,US,,['capitalbldg-com.mail.protection.outlook.com'],Valid,False,100,Deliverable

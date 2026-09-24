@@ -1,0 +1,4 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,geo,typo_suggestion,mx_records,smtp_status,is_catch_all,score,status
+vince@thewaterguru.com,True,thewaterguru.com,False,False,False,False,US,,['thewaterguru-com.mail.protection.outlook.com'],Valid,False,100,Deliverable
+tony@firato.com,True,firato.com,False,False,False,False,US,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Valid,False,100,Deliverable
+vnovo@pacmechelectric.com,True,pacmechelectric.com,False,False,False,False,US,,['pacmechelectric-com.mail.protection.outlook.com'],Valid,False,100,Deliverable

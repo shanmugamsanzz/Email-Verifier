@@ -1,0 +1,4 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,geo,typo_suggestion,mx_records,smtp_status,is_catch_all,score,status
+312@roadrunner.com,True,roadrunner.com,False,False,False,False,US,,['pkvw-mx.msg.pkvw.co.charter.net'],SMTP Failed,False,75,Undeliverable
+4eagleeye@optonline.net,True,optonline.net,False,False,False,True,Unknown,,['mx.altice.prod.cloud.openwave.ai'],SMTP Failed,False,60,Undeliverable
+5JsElectrical@5Jselectrical.com,True,5jselectrical.com,False,False,False,True,Unknown,,['5jselectrical-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable

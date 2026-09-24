@@ -1,0 +1,4 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,geo,typo_suggestion,mx_records,smtp_status,is_catch_all,score,status,external_check
+tony@firato.com,True,firato.com,False,False,False,False,US,,"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']",Invalid,False,50,Undeliverable,"{'service_status': 'exception', 'error': 'Cannot connect to host api.example.com:443 ssl:default [getaddrinfo failed]'}"
+tony@isrrep.com,True,isrrep.com,False,False,False,False,US,,['isrrep-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable,"{'service_status': 'exception', 'error': 'Cannot connect to host api.example.com:443 ssl:default [getaddrinfo failed]'}"
+tony@rmtcam.com,True,rmtcam.com,False,False,False,False,US,,['rmtcam-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable,"{'service_status': 'exception', 'error': 'Cannot connect to host api.example.com:443 ssl:default [getaddrinfo failed]'}"

@@ -1,0 +1,4 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,typo_suggestion,mx_records,smtp_status,checked_with_smtp,score,status
+test1@gmail.com,True,gmail.com,False,False,False,False,gmail.com,"['alt1.gmail-smtp-in.l.google.com', 'alt2.gmail-smtp-in.l.google.com', 'alt3.gmail-smtp-in.l.google.com', 'alt4.gmail-smtp-in.l.google.com', 'gmail-smtp-in.l.google.com']",Invalid,alt1.gmail-smtp-in.l.google.com,50,Undeliverable
+test2@yahoo.com,True,yahoo.com,False,False,False,False,yahoo.com,"['mta5.am0.yahoodns.net', 'mta6.am0.yahoodns.net', 'mta7.am0.yahoodns.net']",Unverifiable,All MX attempts failed,50,Unknown / Unverifiable
+test3@outlook.com,True,outlook.com,False,False,False,False,outlook.com,['outlook-com.olc.protection.outlook.com'],Unverifiable,All MX attempts failed,50,Unknown / Unverifiable

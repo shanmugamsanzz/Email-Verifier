@@ -1,0 +1,2 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,typo_suggestion,mx_records,smtp_status,checked_with_smtp,score,status
+info@kellerfire.com,True,kellerfire.com,False,True,False,False,,['kellerfire.in.tmes.trendmicro.com'],Valid,merrymeyer703@gmail.com,90,Deliverable

@@ -1,0 +1,5 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,typo_suggestion,mx_records,smtp_status,checked_with_smtp,score,status
+CornerstoneService@cornercs.com,True,cornercs.com,False,False,False,True,,['cornercs.in.tmes.trendmicro.com'],Invalid,marymeyer701@gmail.com,35,Undeliverable
+nfo@lighthouseengineering.com,True,lighthouseengineering.com,False,False,False,False,,['mail.lighthouseengineering.com'],Invalid,marymeyer702@gmail.com,50,Undeliverable
+sales@dwsecuritysytems.com,False,,,,,,,,,,0,Invalid Syntax
+info@ferrellelectric.net,True,ferrellelectric.net,False,True,False,False,,['ferrellelectric-net.mail.protection.outlook.com'],Invalid,marymeyer702@gmail.com,40,Undeliverable

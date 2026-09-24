@@ -1,0 +1,7 @@
+input,valid_syntax,domain,is_disposable,is_role_based,is_blocked,is_suspicious,geo,typo_suggestion,mx_records,smtp_status,is_catch_all,score,status
+tony@constructioncleaninginc.com,True,constructioncleaninginc.com,False,False,False,False,Unknown,,['constructioncleaninginc-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tpoche@techpropowergroup.com,True,techpropowergroup.com,False,False,False,False,Unknown,,['techpropowergroup-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+traci@subzeroindustrialcleaning.com,True,subzeroindustrialcleaning.com,False,False,False,False,Unknown,,['subzeroindustrialcleaning-com.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+trenbath@mbsportland.com,True,mbsportland.com,False,False,False,True,US,,['mbsportland-com.mail.protection.outlook.com'],Invalid,False,35,Undeliverable
+tricia.edwards@hellopestcontrol.co,True,hellopestcontrol.co,False,False,False,False,US,,['hellopestcontrol-co.mail.protection.outlook.com'],Invalid,False,50,Undeliverable
+tworrell@firesteelcreek.com,True,firesteelcreek.com,False,False,False,True,Unknown,,"['mx.zoho.com', 'mx2.zoho.com', 'mx3.zoho.com']",Invalid,False,35,Undeliverable
